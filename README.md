@@ -1,11 +1,13 @@
 ![image](https://user-images.githubusercontent.com/22427967/231767375-f5728126-ed2f-4c1a-bbbb-e933328a5f2b.png)
 
-
 # ChatGPT Keyword Optimizer
+
+[中文文档](README-zh.md)
 
 A Chrome extension that enhances Google search experience by generating and suggesting refined keywords using ChatGPT by OpenAI.
 
 For Example, You can paste the entire error stack into the input box.
+
 
 ## Features
 
