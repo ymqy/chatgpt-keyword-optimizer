@@ -25,6 +25,13 @@
 3. 进行谷歌搜索，扩展程序将在搜索栏下方生成并显示优化关键词。
 
 
+## 服务
+
+- ChatGPT/ New Bing 账号申请
+- New Bing 候补状态加速通过
+- ChatGPT Plus 开通
+
+
 ## 许可证
 
 MIT License
