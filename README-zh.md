@@ -16,7 +16,7 @@
 
 ## 安装
 
-等正式发布后公布下载地址。
+[下载地址](https://chrome.google.com/webstore/detail/chatgpt-keyword-assistant/hdemhelpejfpiibkmebfopkcghnlpdpk)
 
 ## 使用
 
