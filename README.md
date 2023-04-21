@@ -19,7 +19,7 @@ For Example, You can paste the entire error stack into the input box.
 
 ## Installation
 
-Announce the download address after the official release.
+[download link](https://chrome.google.com/webstore/detail/chatgpt-keyword-assistant/hdemhelpejfpiibkmebfopkcghnlpdpk)
 
 
 ## Usage
